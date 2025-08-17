@@ -1,0 +1,14 @@
+﻿venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+*.log
+.coverage
+.pytest_cache
